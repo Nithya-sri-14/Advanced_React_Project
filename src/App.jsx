@@ -73,7 +73,7 @@ export default function App() {
               </div>
 
               <div className="form-group">
-                <label>Description</label>
+                <label>Descriptions</label>
                 <textarea
                   rows="3"
                   placeholder="Describe task requirements..."
