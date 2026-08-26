@@ -54,7 +54,7 @@ export default function App() {
         <div className="modal-overlay">
           <div className="modal-content">
             <div className="modal-header">
-              <h3>Create New Task</h3>
+              <h3>Create New Tasks</h3>
               <button onClick={() => setIsModalOpen(false)} className="btn-close">
                 ✕
               </button>
