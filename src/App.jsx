@@ -109,7 +109,7 @@ export default function App() {
                   Cancel
                 </button>
                 <button type="submit" className="btn-primary">
-                  Create Task
+                  Create Tasks
                 </button>
               </div>
             </form>
